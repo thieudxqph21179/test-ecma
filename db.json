@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "thieuzzz",
+      "image": "qweqwe",
+      "price": "1000",
+      "quality": "123",
+      "description": "iphone"
+    },
+    {
+      "id": 4,
+      "name": "thieuz",
+      "image": "qweqwe",
+      "price": "1000",
+      "quality": "123",
+      "description": "đẹp"
+    }
+  ],
+  "users": [
+    {
+      "email": "thieu12345hn@gmail.com",
+      "password": "$2a$10$NKJn8iByw.ptSklBDywSeOyFqe92I63Ho1UoE28/hdhatzrTJX4Wq",
+      "id": 1
+    },
+    {
+      "email": "thieu12345hn@gmail.comm",
+      "password": "$2a$10$wqn4NMaltcyAdGME4zOnceB1tIl8CodV58KIVXdzNU8/D99aov90i",
+      "id": 2
+    },
+    {
+      "email": "thieu12345hn@gmail.commm",
+      "password": "$2a$10$nGClZAqF3p7CNsM7BHdfCejF7Uvxm4NCu6Qb7nFiPhSf0zyEs5UMi",
+      "id": 3
+    }
+  ]
+}
